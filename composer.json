@@ -2,7 +2,7 @@
     "name": "m06-uf04-pr01/api-transactions",
     "description": "A package containing an API to query a specific database via GET requests.",
     "type": "package",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Pere Sole",
