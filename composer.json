@@ -1,0 +1,19 @@
+{
+    "name": "m06-uf04-pr01/api-transactions",
+    "description": "A package containing an API to query a specific database via GET requests.",
+    "type": "package",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Pere Sole",
+            "email": "pere.sole@gracia.lasalle.cat"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"m07uf4pr01\\ApiTransactions\\": "src/"
+		}
+	}
+}
